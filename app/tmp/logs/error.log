@@ -1,0 +1,3602 @@
+2016-09-06 10:20:14 Error: [MissingControllerException] Controller class JobsController could not be found.
+Exception Attributes: array (
+  'class' => 'JobsController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:26:02 Error: [MissingViewException] View file "D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\Applications\\xampp\\htdocs\\jobfinds\\app\\View\\Jobs\\index.ctp',
+)
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-09-06 10:26:30 Error: [MissingViewException] View file "D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\Applications\\xampp\\htdocs\\jobfinds\\app\\View\\Jobs\\index.ctp',
+)
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-09-06 10:33:32 Error: Fatal Error (4): syntax error, unexpected end of file in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 3]
+2016-09-06 10:33:32 Error: [FatalErrorException] syntax error, unexpected end of file
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 3, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 3, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 10:47:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/js/kickstart.js
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:47:16 Error: [MissingControllerException] Controller class Style.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Style.cssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/style.css
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:47:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/kickstart.css
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:47:16 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/js/kickstart.js
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:55:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/js/jquery.js
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:55:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/style.css
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:56:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/js/jquery.js
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 10:56:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:20:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:20:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:15 Error: [MissingControllerException] Controller class Jobs.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Jobs.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/jobs.html
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:16 Error: [MissingControllerException] Controller class Jobs.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Jobs.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/jobs.html
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:16 Error: [MissingControllerException] Controller class Register.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Register.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/register.html
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:23:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:26:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:26:54 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /jobfinds/jobs/browse
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 11:26:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:26:56 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:26:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:26:57 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:26:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:33:55 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:33:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:33:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:33:59 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /jobfinds/jobs/browse
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 11:33:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:00 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:01 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:02 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:02 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:11 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:14 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:14 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:16 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /jobfinds/jobs/browse
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 11:34:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:34:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:35:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:35:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:35:13 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /jobfinds/jobs/browse
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 11:35:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:35:13 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:35:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:35:14 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:35:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:49 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:50 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:51 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:51 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:37:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:15 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:15 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:16 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:16 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:18 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /jobfinds/jobs/browse
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 11:38:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:18 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:19 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:38:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:39:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:41:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:41:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 11:42:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:04:42 Error: Fatal Error (4): syntax error, unexpected ''id])); ?>' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 14]
+2016-09-06 14:04:42 Error: [FatalErrorException] syntax error, unexpected ''id])); ?>' (T_ENCAPSED_AND_WHITESPACE), expecting ']'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 14, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 14, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:04:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:04:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:11:10 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 16]
+2016-09-06 14:11:11 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:11:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:13:16 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 16]
+2016-09-06 14:13:16 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:13:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:13:16 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 16]
+2016-09-06 14:13:16 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:13:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:13:17 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 16]
+2016-09-06 14:13:17 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:13:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:13:17 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 16]
+2016-09-06 14:13:17 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 16, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:13:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:14:17 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 13]
+2016-09-06 14:14:17 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:14:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:14:18 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 13]
+2016-09-06 14:14:18 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:14:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:14:20 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:14:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:14:35 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 13]
+2016-09-06 14:14:35 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:14:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:14:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:15:01 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /jobfinds/jobs/view/1
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 14:15:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:26:16 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 13]
+2016-09-06 14:26:16 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:26:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:26:35 Error: Fatal Error (4): syntax error, unexpected '?>' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\index.ctp, line 13]
+2016-09-06 14:26:35 Error: [FatalErrorException] syntax error, unexpected '?>'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 13, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 14:26:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:26:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:27:09 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /jobfinds/jobs/view/1
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 14:27:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 14:58:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:00:46 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /jobfinds/jobs/view/1
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 15:00:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:06:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:06:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:06:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:06:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:06:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:07:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:07:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:07:47 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /jobfinds/jobs/browse
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-06 15:07:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:07:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:09:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:10:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:12:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:13:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:24:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:24:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:36:20 Error: Fatal Error (1): Call to a member function find() on null in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 33]
+2016-09-06 15:36:20 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /jobfinds/jobs/browse
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\Applications...', 33)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\Applications...', 33, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\Applications...', 33, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-06 15:36:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:37:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:38:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:41:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:42:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-06 15:44:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:48:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:52:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:52:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:52:28 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:52:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:52:29 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:52:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:52:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:53:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:53:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:53:17 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:53:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:53:18 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/login
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:53:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:53:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:59:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:59:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:59:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:59:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 09:59:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:01:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:02:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:02:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:02:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:02:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:05:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:05:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:05:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:10:23 Error: Fatal Error (4): syntax error, unexpected '{' in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 38]
+2016-09-07 10:10:23 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 38, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 38, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 10:10:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:10:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:22:59 Error: Fatal Error (4): syntax error, unexpected '}' in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 48]
+2016-09-07 10:22:59 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 48)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 48, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 48, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 10:23:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:23:00 Error: Fatal Error (4): syntax error, unexpected '}' in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 48]
+2016-09-07 10:23:00 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /jobfinds/
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 48)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 48, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 48, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 10:23:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:23:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:24:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:24:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:31:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:31:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:31:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:31:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:31:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:31:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:31:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 10:32:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:11:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:12:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:12:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:12:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:20:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:20:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:21:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:21:11 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /jobfinds/jobs/view/1
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-07 11:21:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:21:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:21:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:21:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:21:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:22:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:22:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:32:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:32:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:32:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:32:59 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:06 Error: [MissingViewException] View file "D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\Applications\\xampp\\htdocs\\jobfinds\\app\\View\\Jobs\\view.ctp',
+)
+Request URL: /jobfinds/jobs/view/1
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-09-07 11:33:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:10 Error: [MissingViewException] View file "D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\Applications\\xampp\\htdocs\\jobfinds\\app\\View\\Jobs\\view.ctp',
+)
+Request URL: /jobfinds/jobs/view/1
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-09-07 11:33:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:33:25 Error: [MissingViewException] View file "D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\Applications\\xampp\\htdocs\\jobfinds\\app\\View\\Jobs\\view.ctp',
+)
+Request URL: /jobfinds/jobs/view/3
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-09-07 11:33:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:36:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:38:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:40:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:44:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:48:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:48:49 Error: Fatal Error (1): Class 'NotFoundExeption' not found in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 112]
+2016-09-07 11:48:49 Error: [FatalErrorException] Class 'NotFoundExeption' not found
+Request URL: /jobfinds/jobs/view/ceva@ymail.com
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Class 'NotFound...', 'D:\\Applications...', 112)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'NotFound...', 'D:\\Applications...', 112, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'NotFound...', 'D:\\Applications...', 112, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 11:48:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:48:55 Error: Fatal Error (1): Class 'NotFoundExeption' not found in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 112]
+2016-09-07 11:48:55 Error: [FatalErrorException] Class 'NotFoundExeption' not found
+Request URL: /jobfinds/jobs/view/jobs.html
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Class 'NotFound...', 'D:\\Applications...', 112)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'NotFound...', 'D:\\Applications...', 112, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'NotFound...', 'D:\\Applications...', 112, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 11:48:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:50:54 Error: Fatal Error (1): Class 'NotFoundExeption' not found in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 112]
+2016-09-07 11:50:54 Error: [FatalErrorException] Class 'NotFoundExeption' not found
+Request URL: /jobfinds/jobs/view/jobs.html
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Class 'NotFound...', 'D:\\Applications...', 112)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'NotFound...', 'D:\\Applications...', 112, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'NotFound...', 'D:\\Applications...', 112, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 11:50:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:50:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:51:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 11:51:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:18:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:18:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:19:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:19:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:19:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:22:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:30:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:35:37 Error: Fatal Error (1): Call to a member function find() on null in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 134]
+2016-09-07 14:35:38 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /jobfinds/jobs/add
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\Applications...', 134)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\Applications...', 134, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\Applications...', 134, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 14:35:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:37:05 Error: Fatal Error (1): Call to a member function find() on null in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 137]
+2016-09-07 14:37:05 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /jobfinds/jobs/add
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\Applications...', 137)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\Applications...', 137, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\Applications...', 137, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 14:37:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:37:06 Error: Fatal Error (1): Call to a member function find() on null in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 137]
+2016-09-07 14:37:06 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /jobfinds/jobs/add
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\Applications...', 137)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\Applications...', 137, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\Applications...', 137, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 14:37:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:37:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:37:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:37:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:37:25 Error: Fatal Error (1): Call to a member function find() on null in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 137]
+2016-09-07 14:37:25 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /jobfinds/jobs/add
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\Applications...', 137)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\Applications...', 137, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\Applications...', 137, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 14:37:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:38:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:40:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:40:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:41:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:42:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:54:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 14:55:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:02:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:02:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:02:39 Error: [MissingActionException] Action JobsController::edit() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'edit',
+)
+Request URL: /jobfinds/jobs/edit/5
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-07 15:02:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:14:53 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 179]
+2016-09-07 15:14:53 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /jobfinds/jobs/view/5
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 179)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 179, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 179, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 15:14:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:15:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:15:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:17:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:17:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:17:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:17:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:17:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:18:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:20:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:20:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:20:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:20:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:20:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:26:48 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN) in [D:\Applications\xampp\htdocs\jobfinds\app\Controller\JobsController.php, line 212]
+2016-09-07 15:26:48 Error: [FatalErrorException] syntax error, unexpected 'return' (T_RETURN)
+Request URL: /jobfinds/jobs/view/5
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 212)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 212, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 212, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-07 15:26:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:27:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-07 15:27:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 09:11:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 09:11:08 Error: [MissingActionException] Action UsersController::register() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'register',
+)
+Request URL: /jobfinds/users/register
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-09-08 09:11:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 09:11:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 09:18:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 09:50:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:04:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:04:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:04:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:04:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:05:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:29:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:29:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:30:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:30:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:41:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:42:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:42:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:43:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:43:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:43:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:43:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:43:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:45:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:45:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:45:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:46:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:46:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:47:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:49:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:49:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:52:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:52:50 Error: Fatal Error (4): syntax error, unexpected ')' in [D:\Applications\xampp\htdocs\jobfinds\app\View\Jobs\view.ctp, line 11]
+2016-09-08 10:52:51 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /jobfinds/jobs/view/1
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\Applications...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\Applications...', 11, Array)
+#2 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\Applications...', 11, Array)
+#3 D:\Applications\xampp\htdocs\jobfinds\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-09-08 10:52:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:53:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:53:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:53:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:53:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:53:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:53:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-08 10:53:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:30:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:30:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:30:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:30:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:30:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:30:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:31:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:32:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:32:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:32:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-09-13 09:32:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /jobfinds/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\Applications\xampp\htdocs\jobfinds\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
